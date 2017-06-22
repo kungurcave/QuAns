@@ -1,1 +1,1 @@
-# QuAns (Query-Answer)
+# QuRe (Query & Response)
